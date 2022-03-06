@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #0b0b0b;
+}
+
+.loader {
+    margin: 15em 38em;
+    border: 16px solid #fff;
+    border-radius: 50%;
+    border-top: 16px solid #9924f8;
+    width: 140px;
+    height: 140px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+
+}
