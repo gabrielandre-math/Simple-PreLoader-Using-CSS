@@ -1,5 +1,5 @@
 # Simple-PreLoader-Using-CSS
-A simple Preloader. I used just CSS in this mini-project
+A simple Preloader. I used just CSS in this mini-project.
  
 Codepen link --> https://codepen.io/ANDREGABRIELS/pen/LYOajRE
 
